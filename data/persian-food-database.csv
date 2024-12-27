@@ -1,0 +1,79 @@
+Dish ID,Category,Dish Name,Serving Size,Calories,Protein (g),Fat (g),Carbs (g),Fiber (g),Sugar (g),Vitamin A (µg),Vitamin C ,Calcium,Iron (mg),cost (rial),Notes
+1,breakfast,Nan Taftoon-o Paneer-o Chai,100 g,250,10,10,30,2,5,0,0,150,1.5,"$80,000 ","Combination of bread, cheese, and tea; values can vary based on bread and cheese types."
+2,breakfast,nan Taftoon-o Kaleh Pacheh,100 g,372,22,20.5,19.4,1,0.5,0,0,26.6,2.85,"$1,606,000 ",High in protein and fat; traditional dish made from sheep's head and trotters with soft persian bread
+3,breakfast,nan Taftoon-o Halim,100 g,222,9,5.5,34.4,4,2.5,0,0,36.6,2.65,"$206,000 ",Wheat and meat porridge; nutritious and filling. with soft persian bread.
+4,breakfast,nan Taftoon-o Adasi,100 g,192,10,3.5,32.4,5,2.5,0,0,46.6,3.32,"$186,000 ",Lentil soup; rich in protein and fiber. with soft persian bread.
+5,breakfast,Nan Taftoon-o Omelet Irani,130 g,252,12,14.5,18.4,2,2.5,0,0,56.6,3.32,"$156,000 ",Persian tomato omelette; values based on typical preparation. with soft persian bread.
+6,breakfast,Nan-o Panir-o Sabzi,100 g,200,8,8,25,3,4,0,0,120,1.2,"$90,000 ","Bread, cheese, and fresh herbs; nutritious combination."
+7,breakfast,Shir Berenj,100 g,130,4,3,24,0.5,10,0,0,100,0.5,"$170,000 ",Rice pudding; sweet and creamy.
+8,breakfast,Khagineh,100 g,220,6,12,24,1,15,0,0,80,1,"$350,000 ",Sweet Persian omelette; values based on typical preparation.
+9,breakfast,nan Taftoon-o Morabba,130 g,272,2.5,0.7,64.4,2,45.5,0,0,21.6,1.15,"$206,000 ",Assorted jams with bread; high in sugars. with soft persian bread.
+10,breakfast,nan Taftoon-o Mast-o Khiar,130 g,162,5,5.5,22.4,1.5,5.5,0,0,86.6,1.35,"$256,000 ",Yogurt with cucumbers; refreshing and light. with soft persian bread.
+11,breakfast,Honey and Butter with Bread,100 g,300,4,10,50,2,25,0,0,40,1,"$400,000 ",Sweet and indulgent; high in calories.
+12,breakfast,nan Taftoon-o Halva Ardeh,130 g,572,14,30.5,59.4,6,35.5,0,0,66.6,4.85,"$326,000 ",Tahini halva; rich and dense. with soft persian bread.
+13,breakfast,Gheyganakh,100 g,250,10,20,5,0.5,2,0,0,50,2,"$400,000 ",Traditional egg dish; values based on typical preparation.
+14,breakfast,Nan ghelefi ,100 g,280,7,5,52,2,15,0,0,30,2,"$50,000 ",Sweet saffron bread; aromatic and flavorful.
+15,breakfast,Zoolbia and Bamieh,100 g,400,3,20,55,1,30,0,0,20,1,"$100,000 ",Persian sweets; deep-fried and sugary.
+16,breakfast,Ash-e Sholeh Ghalamkar,100 g,150,8,6,18,4,2,0,0,40,2.5,"$150,000 ",Hearty meat and bean soup; nutritious and filling.
+17,dinner,Chelo Kabab (Rice with Grilled Meat),100 g,250,15,10,20,1,1,0,0,30,2.5,"$800,000 ",Combination of rice and grilled meat; values can vary based on meat type and preparation.
+18,dinner,Ghormeh Sabzi (Herb Stew with Meat and Beans),100 g,180,12,8,15,3,2,0,0,40,3,"$400,000 ",Herb stew with meat and beans; rich in protein and fiber.
+19,dinner,Fesenjan (Pomegranate Walnut Stew with Chicken or Duck),100 g,350,10,25,20,2,5,0,0,50,2.5,"$600,000 ",Rich stew made with pomegranate and walnuts; high in healthy fats.
+20,dinner,Zereshk Polo (Barberry Rice with Chicken),100 g,220,8,5,35,1.5,3,0,0,30,1.8,"$260,000 ",Barberry rice served with chicken; sweet and tangy flavor.
+21,dinner,Tahchin (Baked Rice Cake with Saffron and Chicken),100 g,300,9,10,40,2,2,0,0,35,2,"$300,000 ",Baked rice cake with saffron and chicken; crispy crust.
+22,dinner,Baghali Polo (Dill and Fava Bean Rice with Lamb Shank),100 g,250,12,8,30,3,2,0,0,40,3,"$500,000 ",Dill and fava bean rice served with lamb shank; aromatic and flavorful.
+23,dinner,Khoresht-e Bademjan (Eggplant Stew with Meat),100 g,200,10,12,15,2.5,3,0,0,30,2.2,"$370,000 ",Eggplant stew with meat; rich and savory.
+24,dinner,Khoresht-e Gheymeh (Split Pea Stew with Meat and Dried Lime),100 g,190,11,7,20,4,2,0,0,35,2.5,"$420,000 ",Split pea stew with meat and dried lime; tangy and hearty.
+25,dinner,Adas Polo (Lentil Rice with Raisins and Dates),100 g,210,6,5,40,3.5,10,0,0,30,2,"$230,000 ",Lentil rice with raisins and dates; sweet and savory combination.
+26,dinner,Sabzi Polo Mahi (Herbed Rice with Fish),100 g,230,14,8,25,2,1.5,0,0,40,2.8,"$1,000,000 ",jip
+27,dinner,Jujeh Kabab (Grilled Saffron Chicken),100 g,220,18,12,5,0.5,1,0,0,25,1.5,"$330,000 ",Grilled saffron-marinated chicken; tender and flavorful.
+28,dinner,Shishlik (Grilled Lamb Chops),100 g,300,20,25,2,0,0,0,0,20,2.5,"$1,350,000 ",Grilled lamb chops; high in protein and fat.
+29,dinner,Abgoosht (Lamb and Chickpea Stew),100 g,149,14.2,2.7,17.3,4.2,2.1,0,0,—,—,"$1,000,000 ",Traditional lamb and chickpea stew; hearty and nutritious.
+30,dinner,Ash Reshteh (Noodle and Bean Soup),100 g,120,5,3,18,4,2,0,0,40,2,"$150,000 ",Noodle and bean soup; hearty and filling.
+31,dinner,Lubia Polo (Green Bean Rice with Meat),100 g,200,8,6,30,2.5,2,0,0,35,2,"$250,000 ",Green bean rice with meat; balanced and nutritious.
+32,dinner,Kebab Barg (Marinated Lamb or Beef Kebabs),100 g,270,18,22,3,0,0.5,0,0,30,2.5,"$1,000,000 ",Marinated lamb or beef kebabs; tender and flavorful.
+33,dinner,Khoresht-e Alu Esfenaj (Spinach and Plum Stew),100 g,180,7,8,20,3,5,0,0,40,2,"$450,000 ",Spinach and plum stew; sweet and savory.
+35,dinner,Kuku Sabzi (Herb Frittata),100 g,220,10,18,5,2,1,0,0,50,1.5,"$130,000 ",Herb frittata; rich in herbs and protein.
+36,dinner,Pasta Meat-ball,100 g,164,8,5.8,20,1.5,1.8,0,0,52,1,"$950,000 ",Pasta with meat and vegs.
+37,dinner,Reshteh Polo,100 g,230,3,5.9,38.7,0.5,0.1,0,0,5.5,1.4,"$200,000 ",Reshteh with rice
+38,dinner,Kabab Tabehi,100 g,230,15.4,16.3,7.4,1.3,3,0,0,32.4,1.8,"$870,000 ","made with seasoned ground meat, onions, and spices, cooked in a skillet."
+39,dinner,Kabab Torsh,100 g,275,17.3,17.6,8.5,0.8,5.4,0,0,41,2,"$1,000,000 ","marinated beef or lamb mixed with crushed walnuts, pomegranate paste, garlic, and aromatic herbs.served with rice or bread "
+40,dinner,Felafel,100 g,333,10.8,19.4,30,8.1,5.8,0,0,63,3.4,"$100,000 ",deep-fried ball  made from ground chickpeas 
+41,lunch,ٍEstamboli Polo (Tomato),100 g,180,3.1,3.2,33.4,1.1,1.5,0,0,11.8,1.7,"$180,000 ",Rice and tomato
+42,lunch,Meigoo Polo,100 g,189,6.5,6.5,25,0.7,1,0,0,28.4,1.2,"$920,000 ",Rice and shrimps; high in carbs.
+43,lunch,Mirza Ghasemi (Smoked Eggplant with Tomato and Garlic),100 g,150,4,10,12,3,4,0,0,30,1,"$180,000 "," grilled eggplants, tomatoes, garlic, and eggs"
+44,lunch,Kaleh Pacheh (Sheep's Head and Trotters Soup),100 g,300,20,20,5,0,0,0,0,20,2,"$1,600,000 ",High in protein and fat; traditional dish made from sheep's head and trotters. Hafez Persian Restaurant
+45,lunch,Halim (Wheat and Meat Porridge),100 g,150,7,5,20,3,2,0,0,30,1.8,"$200,000 ",Wheat and meat porridge; nutritious and filling.
+46,lunch,Adasi (Lentil Soup),100 g,120,8,3,18,4,2,0,0,40,2.5,"$180,000 ",Lentil soup; rich in protein and fiber.
+47,lunch,Omelet Irani (Persian Tomato Omelette),100 g,180,10,14,4,1,2,0,0,50,1.5,"$150,000 ",Persian tomato omelette; values based on typical preparation.
+48,lunch,Shir Berenj (Rice Pudding),100 g,130,4,3,24,0.5,10,0,0,100,0.5,"$170,000 ",Rice pudding; sweet and creamy.
+49,lunch,Khagineh (Sweet Persian Omelette),100 g,220,6,12,24,1,15,0,0,80,1,"$350,000 ",Sweet Persian omelette; values based on typical preparation.
+50,lunch,Mast-o Khiar (Yogurt with Cucumbers),100 g,90,3,5,8,0.5,5,0,0,80,0.5,"$250,000 ",Yogurt with cucumbers; refreshing and light.
+51,lunch,Honey and Butter with Bread,100 g,300,4,10,50,2,25,0,0,40,1,"$400,000 ",Sweet and indulgent; high in calories.
+52,lunch,Halva Ardeh (Tahini Halva),100 g,500,12,30,45,5,35,0,0,60,4,"$320,000 ",Tahini halva; rich and dense.
+53,lunch,Gheyganakh (Traditional Egg Dish),100 g,250,10,20,5,0.5,2,0,0,50,2,"$200,000 ",Traditional egg dish; values based on typical preparation.
+54,lunch,Shaverma,100 g,236,15.8,11,19.1,1.9,1.1,0,0,72.1,1.5,"$880,000 ",Marinated chicken with bread
+55,lunch,BaGella GatoGH,100 g,136,5.4,8.7,10.1,3.6,1,0,0,72,2.4,"$270,000 ","made with fava beans, fresh dill, and eggs"
+56,lunch,Shami,100 g,197,21,9,8,4.6,1.2,0,0,25,2.1,"$900,000 ",Meat and potato and egg dish.
+57,lunch,Yatimcheh,100 g,60,1.1,2.8,8.5,1.5,2.4,0,0,11.4,0.5,"$160,000 ","eggplants, tomatoes, onions, and sometimes potatoes"
+58,lunch,eshkaneh,100 g,103,3.1,5,12,1.2,1.6,0,0,16.8,0.7,"$180,000 ",Egg and potato ash.
+59,lunch,Khoresht-e- Kari,100 g,326,25,22.3,6.7,0.6,0.8,0,0,20.7,1.9,"$670,000 ",Chicken with yogurt and cream; high in calories and protein.
+60,lunch,Shirmal (Sweet Saffron Bread),100 g,280,7,5,52,2,15,0,0,30,2,"$50,000 ",Sweet saffron bread; aromatic and flavorful.
+61,lunch,Ash-e Sholeh Ghalamkar (Hearty Meat and Bean Soup),100 g,150,8,6,18,4,2,0,0,40,2.5,"$150,000 ",Hearty meat and bean soup; nutritious and filling.
+62,snack,Fresh Fruits and Nuts,100 g,150,3,8,20,3,15,50,10,40,1.5,"$900,000 ","Combination of fresh fruits and nuts; rich in fiber, vitamins, and minerals."
+63,snack,Boiled Egg,50 g (1 medium egg),78,6.3,5.3,0.6,0,0,75,0,25,1,"$50,000 ",Excellent source of protein and B vitamins.
+64,snack,Dried Fruits and Nuts,100 g,350,6,15,50,5,30,20,2,50,2,"$1,000,000 ",High in calories; suitable for energy supply.
+65,snack,Peanut Butter and Apple,100 g,210,4,10,28,4,18,10,5,30,0.5,"$60,000 ","Combination of protein, fiber, and healthy fats."
+66,snack,Vegetable Salad,100 g,50,2,0.5,10,3,5,300,20,40,1,"$100,000 ",Contains vitamins and minerals; low in calories.
+67,snack,Barley or Vermicelli Soup,100 g,70,2,1,13,1,2,10,2,15,0.5,"$450,000 ",Suitable for cold seasons; warm and filling.
+68,snack,Yogurt and Fruit,100 g,90,3.5,3,12,0.5,10,15,2,100,0.2,"$150,000 ",Source of calcium and protein; contains probiotics.
+69,snack,Vegetable Chips,100 g,500,5,30,55,7,10,20,10,40,2,"$800,000 ",High in calories and fat; recommended to consume in moderation.
+70,snack,Cheese with Grapes,100 g,150,7,8,15,1,10,20,3,150,0.5,"$170,000 ","Balance between fat, protein, and carbohydrates."
+71,snack,Small Chicken and Potato Sandwich,100 g,200,10,5,30,2,3,30,5,20,1,"$700,000 ",Provides protein and carbohydrates; filling.
+72,snack,Granola,100 g,471,10,20,64,5,25,0,0,40,3,"$500,000 ",Energy source; contains fiber and protein.
+73,snack,Khagineh (Sweet Persian Omelette),100 g,220,8,15,10,1,5,100,0,50,1.5,"$500,000 ",Rich in protein; made from eggs and vegetables.
+74,snack,Pumpkin Seeds,100 g,560,30,49,10,6,1,10,1,55,8,"$130,000 ","Rich source of iron, unsaturated fats, and zinc."
+75,snack,Ice Cream,100 g,207,3.5,11,24,0,21,13,0,128,0.1,"$150,000 ",Cool and enjoyable; recommended to consume in moderation.
+76,snack,Soybeans,100 g,446,36,20,30,9,7,9,6,277,15.7,"$400,000 ",Rich in plant-based protein; suitable for athletes.
+77,snack,Dooymaj,100 g,250,6,15,25,2,5,50,2,100,1.5,"$400,000 ","Traditional snack made from dry bread, cheese, and walnuts."
+78,snack,Sohan,100 g,500,8,25,60,2,40,10,0,50,2,"$170,000 ",Traditional Persian sweet; high in sugar and fat.
+79,snack,Pokora Bushehri,100 g,300,5,15,35,3,5,20,5,30,1.5,"$200,000 ",Sp
