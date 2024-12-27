@@ -13,7 +13,7 @@ This project aims to optimize dietary patterns for the average Iranian individua
 - `src/`: Contains the Python scripts, including the main optimization script (`Final_code.py`).
 - `data/`: Holds datasets like nutritional information and cost data for meals.
 - `docs/`: Includes detailed documentation and the final research paper (`Final-word.docx`).
-- `outputs/`: Stores generated visual outputs such as `meal-planned.csv` and `cost_plot.png`and `nutrition-plot.png` .
+- `outputs/`: Stores generated visual outputs such as `meals planned for each day.png` .
 ## How to Run
 1. **Dependencies**: Install required Python libraries listed in `requirements.txt`.
    ```bash
